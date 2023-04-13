@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdr -m 75 my_dr
